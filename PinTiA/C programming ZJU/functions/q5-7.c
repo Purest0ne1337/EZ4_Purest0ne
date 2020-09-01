@@ -11,3 +11,4 @@ double funcos(double e, double x) {
     }
     return sum;
 }
+//https://pintia.cn/problem-sets/12/problems/307
