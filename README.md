@@ -1,9 +1,9 @@
 # EZ4_Purest0ne
 Start from scratch, show u all my code.                                 
 I'm a noob, but what's the matter?                                      
-My parents are noob, but they entered Nanjing University. WTF is that?  
-If you noob and poor, do things as I do now ———— to be not noob.        
-And you will be not noob and still poor!                                
+My parents are noobs, but they entered Nanjing University. WTF?  
+If you noob and poor, do things as I do now ———— to be a no-noob.        
+And you will not noob and still poor!                                
 Great progress!    
 
 从头开始，向您展示我所有的代码。
